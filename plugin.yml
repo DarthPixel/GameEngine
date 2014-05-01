@@ -1,0 +1,10 @@
+name: GameEngine
+version: v0.1
+description: GameEngine
+author: Slikey
+website: http://www.kevin-carstens.de/
+prefix: Game Engine
+main: de.slikey.game.test.ArenaTest
+load: POSTWORLD
+database: false
+depend: []
